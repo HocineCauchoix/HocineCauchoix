@@ -21,7 +21,7 @@ Je partage sur GitHub une variété de projets, allant des exercices académique
 
 ### Mes centres d'intérêt
 
-Mis a part l'informatique voici mes principales centre d'intèret 
+Mis à part l'informatique, voici mes principaux centres d'intérêt :
 
 - ⚽ Pratique le sport, surtout collectif.
 - 🎲 Petit penchant pour les jeux de rôle (Dungeons & Dragons).
