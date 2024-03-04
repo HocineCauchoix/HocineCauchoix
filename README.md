@@ -7,7 +7,7 @@ Salut ! Je suis Hocine Cauchoix, un étudiant en informatique qui explore consta
 
 - 🎓 Actuellement étudiant en informatique à Paris Ynov Campus.
 - 💼 Objectif : obtenir un mastère expert devops.
-- 💬 A la recherche d'un stage en réseau ou infrastructure & SI.
+- 💬 A la recherche d'une alternance en réseau ou infrastructure & SI.
 - 🚀 Toujours en quête d'apprentissage et d'amélioration continue.
 
 
